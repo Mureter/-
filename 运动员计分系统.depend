@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1622559587 source:d:\21年工作相关\平台接单设计\第二单\运动员计分系统\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1622622264 source:d:\21年工作相关\平台接单设计\第二单\运动员计分系统2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1622622618 d:\21年工作相关\平台接单设计\第二单\运动员计分系统2\head.h
+	<stdio.h>
+	<stdlib.h>
+
+1622622619 source:d:\21年工作相关\平台接单设计\第二单\运动员计分系统2\show.c
+	"head.h"
+
+1622622812 source:d:\21年工作相关\平台接单设计\第二单\运动员计分系统2\player_own.c
+	"head.h"
+
+1622622919 source:d:\21年工作相关\平台接单设计\第二单\运动员计分系统2\college.c
+	"head.h"
+
